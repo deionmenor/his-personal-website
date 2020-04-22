@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "My blog"
-theme = "ghostwriter"
+theme = "ghostwriter-master"
 
 [Params]
     mainSections = ["post"]
