@@ -12,6 +12,7 @@ theme = "ghostwriter-master"
     email = "deionmenor@gmail.com"
     opengraph = true
     shareTwitter = true
+    googleAnalytics = "UA-164359515-1"
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
