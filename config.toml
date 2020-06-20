@@ -5,7 +5,7 @@ theme = "ghostwriter-master"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "hopeless stochastic"
+    headline = "deion.menor"
     description = "a collection of random words, thoughts, and data points"
     github = "https://github.com/deionmenor"
     twitter = "https://twitter.com/hopelessfanatik"
