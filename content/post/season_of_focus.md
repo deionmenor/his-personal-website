@@ -1,6 +1,6 @@
 +++
 title = "My Season of Focus"
-description = "I try out a new way of keeping track of your goals based on CGP Grey's Theme System"
+description = "I try out a new way of keeping track of my goals based on CGP Grey's Theme System"
 date = "2021-08-04"
 +++
 
@@ -18,7 +18,7 @@ It seems that goal-setting is tricky for a lot of people, including me. But this
 
 Inspired by CGP Grey's [Theme System](https://www.youtube.com/watch?v=NVGuFdX5guE), I've decided to join in with my own theme this month.
 
-The Theme System, as described by CGP Grey, is a way for you to easily help make decisions and reach your goals in a way that is also more flexible and manageable on a daily basis. Instead of setting resolutions, we should be coming up with THEMES. The theme will guide your decisions in daily life.
+The Theme System, as described by CGP Grey, is a way for you to easily help make decisions and reach your goals in a way that is also more flexible and manageable on a daily basis. Instead of setting resolutions, we should be coming up with THEMES. The theme will help guide your decisions in daily life. For example, if you commit to a Year of Novelty, then when you encounter a choice between doing something done before or something new, you would choose the latter. Or perhaps, guided by that yearly theme, you'd be inclined to become more adventurous in general or try to find things in your daily life which you might want to change. A theme must be broad enough for you to interpret it in a variety of ways!
 
 ## Choosing My Theme
 
