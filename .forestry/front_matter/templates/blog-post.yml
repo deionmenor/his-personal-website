@@ -11,3 +11,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/post/why-is-facebook-rebranding-itself.md
