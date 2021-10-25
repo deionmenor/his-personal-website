@@ -1,7 +1,6 @@
 +++
 date = 2021-10-20T16:00:00Z
 description = "A look into Facebook's next big bet...the meta-verse."
-draft = true
 title = "Why Is Facebook Rebranding Itself?"
 
 +++
