@@ -12,4 +12,5 @@ fields:
   name: date
   label: date
 pages:
+- content/post/book-review-the-midnight-library.md
 - content/post/why-is-facebook-rebranding-itself.md
