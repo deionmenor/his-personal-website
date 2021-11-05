@@ -17,6 +17,8 @@ The concept could have definitely been explored more. I think it was all too con
 
 In the end, the book is a celebration of life, and an exploration of the way we handle our regrets. Though it didn't blow me away with its characterization or dialogue, it intrigued me with the burning question: what if? That question was both in Nora's head as it was in mine, and it kept me wanting to read till the end. Halfway through the book, I had an idea already on how the story should (logically) end, but it didn't stop me from enjoying Nora's journey through different worlds, different possibilities.
 
-> Rating: **3/5**
->
-> Favorite Quote: "_But it is not lives we regret not living that are the real problem. It is the regret itself. It's the regret that makes us shrivel and wither and feel like our own and other people's worst enemy."_
+***
+
+**Rating:** 3/5
+
+**Favorite Quote:** "_But it is not lives we regret not living that are the real problem. It is the regret itself. It's the regret that makes us shrivel and wither and feel like our own and other people's worst enemy."_
