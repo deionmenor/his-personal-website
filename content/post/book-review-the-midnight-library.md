@@ -1,7 +1,6 @@
 +++
 date = 2021-11-04T16:00:00Z
 description = "Some thoughts on the Midnight Library by Matt Haig"
-draft = true
 title = "[Book Review] - The Midnight Library"
 
 +++
