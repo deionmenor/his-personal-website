@@ -1,7 +1,6 @@
 +++
 date = 2022-02-15T16:00:00Z
 description = "Why I'm Reading the World's Longest Novel"
-draft = true
 title = "Why I'm Reading Proust in 2022"
 
 +++
